@@ -1,11 +1,18 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 ## _Hey  there!_  <img src="https://raw.githubusercontent.com/Dumberdore/dumberdore.github.io/main/assets/img/wave.gif" width="30">
 
 
-I am Prakash, an **Engineering Manager** @[Wesco](https://wesco.com).
+I am Prakash, an **Engineering Manager** @[_Wesco_](https://wesco.com).
 
-I enjoy programming in Go & Python! In previous jobs, I have worked with C/C++, Hack, and various scripting languages.
-Before joining Wesco, I have been a Software Developer, Test Automation Engineer, and Lecturer.
+I enjoy programming in `Go` & `Python`! In previous jobs, I have worked with C/C++, Hack, and various scripting languages.
+`DevOps` it my area of specialisation with expertise in Container Orchestration, CI/CD, SRE and so on!
 
-Alongside tech, I have been moonlighting as a Poker Player and an amateur photographer.
+Before joining **Wesco**, I have been a Software Developer, Test Automation Engineer, and Lecturer.
 
+Alongside tech, I have been moonlighting as a Poker Player and an amateur photographer.<br>
 Cheers! 🍻
