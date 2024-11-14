@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## _Hey  there!_  <img src="https://raw.githubusercontent.com/Dumberdore/dumberdore.github.io/main/assets/img/wave.gif" width="30">
+## _Hey  there!_  <img src="https://raw.githubusercontent.com/Dumberdore/dumberdore.github.io/main/assets/img/wave.gif" width="30" alt="Waving Hand">
 
 
 I am Prakash, an **Engineering Manager** @[_Wesco_](https://wesco.com).
