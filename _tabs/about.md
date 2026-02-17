@@ -7,7 +7,7 @@ order: 4
 ## _Hey  there!_  <img src="https://raw.githubusercontent.com/Dumberdore/dumberdore.github.io/main/assets/img/wave.gif" width="30" alt="Waving Hand">
 
 
-I am Prakash, an **Engineering Manager** @[_Wesco_](https://wesco.com).
+I am Prakash, a **staff engineer** @[_Teckro_](https://teckro.com).
 
 I enjoy programming in `Go` & `Python`! In previous jobs, I have worked with C/C++, Hack, and various scripting languages.
 `DevOps` it my area of specialisation with expertise in Container Orchestration, CI/CD, SRE and so on!
